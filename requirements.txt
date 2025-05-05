@@ -1,0 +1,4 @@
+django
+qiskit
+qiskit-serverless
+numpy
